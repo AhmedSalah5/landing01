@@ -83,6 +83,10 @@ background: linear-gradient(143deg, rgba(92,211,231,1) 0%, rgba(5,22,25,1) 86%);
 .social-links a{
     display: flex;
     align-items: center;
+    color: #fff;
+}
+.social-links a:hover{
+    opacity: 0.8;
 }
 .social-links a .icon{
     display: inline-block;
