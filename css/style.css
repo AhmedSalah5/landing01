@@ -32,6 +32,7 @@ body{
 .header{
     min-height: 90vh;
     display: flex;
+    padding-bottom: 60px;
     flex-direction: column;
     align-items: center;
     justify-content: center;
@@ -45,7 +46,7 @@ color: #f1f1f1;
 .description{
     position: relative;
     z-index: 10;
-    top: -80px;
+    top: -60px;
     background-color: #fff;
     padding: 30px 20px;
 }
